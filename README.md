@@ -1,7 +1,7 @@
 # Heyy, I'm Jatin  
 **<sub>— just a developer trying to fight bugs faster than they spawn, praying the patch notes don’t expose me</sub>**
 
-────────────────────────────────────────────────────────
+─────⋆─────⋆─────⋆─────⋆─────⋆─────
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 </div>
 
-────────────────────────────────────────────────────────
+─────⋆─────⋆─────⋆─────⋆─────⋆─────
 
 ## ➷ Socials
 
@@ -30,4 +30,15 @@
   </a>
 </p>
 
-────────────────────────────────────────────────────────
+─────⋆─────⋆─────⋆─────⋆─────⋆─────
+
+## Tech Stack — MERN + Next + ML / DL
+
+〈 React 〉  〈 Next.js 〉  〈 Node.js 〉  〈 Express 〉  〈 MongoDB 〉  
+〈 Python 〉  〈 NumPy 〉  〈 Pandas 〉  〈 Scikit-Learn 〉  〈 TensorFlow 〉  〈 PyTorch 〉
+
+─────⋆─────⋆─────⋆─────⋆─────⋆─────
+
+##### building things that work until someone looks too closely
+
+─────⋆─────⋆─────⋆─────⋆─────⋆─────
