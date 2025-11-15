@@ -1,13 +1,7 @@
-# Heyy, I'm Jatin 👋  
-**<sub>— just a developer trying to fight bugs faster than they spawn 🙂⚡</sub>**
+# Heyy, I'm Jatin  
+**<sub>— just a developer trying to fight bugs faster than they spawn, praying the patch notes don’t expose me</sub>**
 
----
-
-<!-- ## Discord Presence ( Under Construction)
-
-[![Discord Card](https://discord-card-eight.vercel.app/api/card)](https://discord.com/users/1102123627438153738)
-
-<sub>Auto-updated via Lanyard API</sub> -->
+────────────────────────────────────────────────────────
 
 <div align="center">
 
@@ -17,36 +11,23 @@
 
 </div>
 
----
+────────────────────────────────────────────────────────
 
 ## ➷ Socials
 
 <p align="left">
   <a href="https://www.behance.net/xdemongraphicz">
-    <img src="https://img.shields.io/badge/Behance-1d1d1d?style=flat-square&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-1d1d1d?style=flat-square&logo=behance&logoColor=white&labelColor=6f5fa9" />
   </a>
   <a href="https://discord.gg/svm7yjkeBp">
-    <img src="https://img.shields.io/badge/Discord-1d1d1d?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-1d1d1d?style=flat-square&logo=discord&logoColor=white&labelColor=6f5fa9" />
   </a>
   <a href="https://www.linkedin.com/in/jatin-gupta-34b5b7226/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1d1d1d.svg?logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1d1d1d.svg?logo=linkedin&logoColor=white&labelColor=6f5fa9" />
   </a>
   <a href="mailto:jatinguptapvt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1d1d1d?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1d1d1d?style=flat-square&logo=gmail&logoColor=white&labelColor=6f5fa9" />
   </a>
 </p>
 
----
-
-## ✦ About Me  
-> *Black & white code aesthetics. Lavender-tinted chaos energy.  
-Turning caffeine into full-stack creations — and occasional existential errors.*
-
----
-
-## ✦ Aesthetic Touch  
-Minimal. Clean. Monochrome.  
-Lavender only where it *hurts perfectly*.  
-
----
-
+────────────────────────────────────────────────────────
