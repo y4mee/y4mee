@@ -1,6 +1,6 @@
-# Hello, This is Jatin (@Y4mee)
+# Heyy, This is Jatin 
 
-Welcome to my GitHub! I'm a full-stack developer who loves building bots, automations, and stunning web experiences. Always experimenting — sometimes useful, sometimes cursed... always fun.
+
 
 ---
 
