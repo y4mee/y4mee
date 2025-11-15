@@ -30,15 +30,9 @@
   </a>
 </p>
 
-─────⋆─────⋆─────⋆─────⋆─────⋆─────
-
-## Tech Stack — MERN + Next + ML / DL
-
-〈 React 〉  〈 Next.js 〉  〈 Node.js 〉  〈 Express 〉  〈 MongoDB 〉  
-〈 Python 〉  〈 NumPy 〉  〈 Pandas 〉  〈 Scikit-Learn 〉  〈 TensorFlow 〉  〈 PyTorch 〉
 
 ─────⋆─────⋆─────⋆─────⋆─────⋆─────
 
 ##### building things that work until someone looks too closely
 
-─────⋆─────⋆─────⋆─────⋆─────⋆─────
+
