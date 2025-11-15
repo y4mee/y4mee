@@ -31,8 +31,4 @@
 </p>
 
 
-─────⋆─────⋆─────⋆─────⋆─────⋆─────
-
-##### building things that work until someone looks too closely
-
 
