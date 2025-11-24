@@ -7,7 +7,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1102123627438153738?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px)](https://discord.gg/svm7yjkeBp)
 
-[![@Yuno's Playlist](https://data-card-for-spotify.herokuapp.com/api/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist)](https://data-card-for-spotify.herokuapp.com/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist)
 
 </div>
 
