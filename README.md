@@ -7,6 +7,8 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1102123627438153738?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px)](https://discord.gg/svm7yjkeBp)
 
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1102123627438153738)
+
 
 </div>
 
