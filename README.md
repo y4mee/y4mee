@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Discord Presence](https://activity-presence-card.vercel.app/api/card)
+![Live Presence](https://activity-presence-card.vercel.app/api/card)
 
 
 </div>
