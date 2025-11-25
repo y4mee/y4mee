@@ -11,6 +11,9 @@
 
 [![Discord](https://discord.c99.nl/widget/theme-2/1102123627438153738.png)](https://discord.com/users/1102123627438153738)
 
+![Discord Presence](https://activity-presence-card.vercel.app/api/card)
+
+
 </div>
 
 ─────⋆─────⋆─────⋆─────⋆─────⋆─────
