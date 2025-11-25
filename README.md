@@ -23,7 +23,7 @@
   <a href="https://discord.gg/svm7yjkeBp">
     <img src="https://img.shields.io/badge/Discord-1d1d1d?style=flat-square&logo=discord&logoColor=white&labelColor=D470FF" />
   </a>
-  <a href="https://www.linkedin.com/in/jatin-gupta-34b5b7226/">
+  <a href="https://www.linkedin.com/in/j4tinnn/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1d1d1d.svg?logo=linkedin&logoColor=white&labelColor=D470FF" />
   </a>
   <a href="mailto:jatinguptapvt@gmail.com">
