@@ -6,7 +6,7 @@
 <div align="center">
 
 
-![Live Presence](https://activity-presence-card.vercel.app/api/card)
+![Activity](https://y4meteeeelive.vercel.app/api/card)
 
 
 
