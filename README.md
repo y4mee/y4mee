@@ -6,7 +6,7 @@
 <div align="center">
 
 
-![Activity](https://activity-presence-card/api/card)
+![Activity](https://activity-presence-card.vercel.app/api/card)
 
 
 
