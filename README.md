@@ -17,7 +17,7 @@
 ## ➷ Socials
 
 <p align="left">
-  <a href="https://www.behance.net/xdemongraphicz">
+  <a href="https://www.behance.net/y4mee">
     <img src="https://img.shields.io/badge/Behance-FFFFFF?style=flat-square&logo=behance&logoColor=000000&labelColor=FFFFFF" />
   </a>
   <a href="https://discord.gg/svm7yjkeBp">
